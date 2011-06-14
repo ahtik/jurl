@@ -10,7 +10,7 @@ ant -Djurl=https://myurl.com
 
 == Sample jurl.out output ==
 
-ant -Djurl=https://gmail.com
+ant -Djurl=https://mail.google.com
 (( Please note that the same command for https://gmail.com fails due to Hostname Verifier failure ))
 
 jurl.out:
