@@ -1,4 +1,6 @@
 == jurl - java utility to inspect a web address ==
+Useful for detecting java cacerts issues or quickly printing all the headers
+
 
 == Installation & Usage Instructions ==
 git clone git://github.com/ahtik/jurl.git
