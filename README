@@ -1,5 +1,5 @@
 == jurl - java utility to inspect a web address ==
-Useful for detecting java cacerts issues or quickly printing all the headers
+Useful for detecting java cacerts issues, printing all the headers etc
 
 
 == Installation & Usage Instructions ==
